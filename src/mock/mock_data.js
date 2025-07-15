@@ -472,6 +472,21 @@ export const mockData = {
           "icon": "https://www.feishu.cn/favicon.ico"
         }
       ]
+    },
+    {
+      "id": "category-1752562756017",
+      "icon": "💻",
+      "name": "科研论文",
+      "order": 2,
+      "sites": [
+        {
+          "id": "site-1752562789163",
+          "name": "xmol",
+          "url": "https://www.x-mol.com/",
+          "description": "",
+          "icon": "https://www.x-mol.com/favicon.ico"
+        }
+      ]
     }
   ],
   "title": "猫猫导航"
