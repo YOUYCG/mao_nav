@@ -26,6 +26,13 @@ export const mockData = {
           "url": "https://github.com",
           "description": "代码托管平台",
           "icon": "https://github.com/favicon.ico"
+        },
+        {
+          "id": "site-1752561266145",
+          "name": "恩山论坛",
+          "url": "https://www.right.com.cn/forum/forum.php",
+          "description": "",
+          "icon": "https://www.right.com.cn/favicon.ico"
         }
       ]
     },
@@ -212,6 +219,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "https://www.52pojie.cn/favicon.ico"
+        },
+        {
+          "id": "site-1752561218965",
+          "name": "远景论坛",
+          "url": "https://i.pcbeta.com/",
+          "description": "",
+          "icon": "https://i.pcbeta.com/favicon.ico"
         }
       ]
     },
